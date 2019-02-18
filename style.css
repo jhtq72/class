@@ -7,7 +7,7 @@ p {
 }
 h1{
   text-align: center;
-  font-family: 'Merriweather' Georgia, "Times New Roman", serif;
+  font-family: 'Merriweather', "Times New Roman", serif;
   font-weight: bold;
   color: #fff;
   background-color: #ad5965
@@ -42,7 +42,7 @@ margin: 0 auto;
 #nav a:link, #nav a:visited {
   display:block;
   color: #fff;
-  background-color: #ad5965
+  background-color: #ad5965;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
