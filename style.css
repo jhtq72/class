@@ -16,7 +16,7 @@ body {
   text-align: center;
   font-family: 'Raleway', Helvetica, sans-serif;
   font-weight: lighter;
-  background-color:#dbc6fb;
+  background-color:#005a5b;
 }
 
 #container {background-color: #fff;
@@ -42,7 +42,7 @@ margin: 0 auto;
 #nav a:link, #nav a:visited {
   display:block;
   color: #fff;
-  background-color: #005a5b;
+  background-color: #ad5965
   font-weight: bold;
   text-align: center;
   text-decoration: none;
