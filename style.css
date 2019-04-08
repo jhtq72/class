@@ -102,10 +102,10 @@ article:last-of-type {
   article {
     display: grid;
     grid-template-columns: 200px 1fr 1fr;
-    grid gap: 20px;
+    grid-gap: 20px;
     grid-template-areas:
     "c a a"
-    ". b b"
+    "c b b"
     ". . ."
   }
   .authorbox{
@@ -121,7 +121,6 @@ article:last-of-type {
     }
 }
 
-}
 @media screen and (min-width: 1200px) {
   article {
     display: grid;
