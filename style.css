@@ -128,7 +128,7 @@ article:last-of-type {
     grid-gap:20px;
     grid-template-areas:
     "c . a"
-    "c b b"
+    "c . b"
     ". . ."
   }
 }
