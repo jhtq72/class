@@ -87,9 +87,14 @@ article:last-of-type {
   border-bottom: none;
 }
 @media screen and (min-width:450px) {
-  nav ul {
-    flex-flow: row;
-    justify-content: space-between;
+  #container {
+    width: 80%;
+  }
+  .authorbox{
+    width: 25%;
+    max-width: 200px;
+    float: left;
+    margin-right: 20px;
   }
 }
 
