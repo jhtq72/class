@@ -117,6 +117,7 @@ article:last-of-type {
   }
   .image {
     grid-area: c;
+    float: left;
     }
 }
 
