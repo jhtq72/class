@@ -86,6 +86,7 @@ article {
 article:last-of-type {
   border-bottom: none;
 }
+}
 @media screen and (min-width:450px) {
   #container {
     width: 80%;
@@ -130,7 +131,4 @@ article:last-of-type {
     "c b b"
     ". . ."
   }
-}
-
-}
 }
