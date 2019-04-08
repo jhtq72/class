@@ -79,3 +79,18 @@ justify-content: space-around;
   display: flex;
   justify-content: space-between;
 }
+article {
+  margin-bottom: .7em;
+  border-bottom: 1px solid #ccc;
+}
+article:last-of-type {
+  border-bottom: none;
+}
+@media screen and (min-width:450px) {
+  nav ul {
+    flex-flow: row;
+    justify-content: space-between;
+  }
+}
+
+}
