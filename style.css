@@ -105,7 +105,7 @@ article:last-of-type {
     grid gap: 20px;
     grid-template-areas:
     "c a a"
-    "c b b"
+    ". b b"
     ". . ."
   }
   .authorbox{
