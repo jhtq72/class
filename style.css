@@ -75,3 +75,7 @@ img {
 align-items: center;
 justify-content: space-around;
 }
+.title {
+  display: flex;
+  justify-content: space-between;
+}
