@@ -129,7 +129,7 @@ article:last-of-type {
     grid-gap:40px;
     grid-template-areas:
     "c . a"
-    "c . b"
-    ". . ."
+    "c . "
+    "b b ."
   }
 }
