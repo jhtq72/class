@@ -126,7 +126,7 @@ article:last-of-type {
   article {
     display: grid;
     grid-template-columns: 200px 1fr 1fr;
-    grid-gap:20px;
+    grid-gap:40px;
     grid-template-areas:
     "c . a"
     "c . b"
